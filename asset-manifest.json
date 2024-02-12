@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68833015.css",
+    "main.js": "/static/js/main.41152911.js",
+    "static/media/HyperTech.svg": "/static/media/HyperTech.2229c982dda64c546b610f22263e6113.svg",
+    "static/media/mailbox.svg": "/static/media/mailbox.adedb1845fef48df6a57f0f6c398d1c8.svg",
+    "static/media/paper-plane.svg": "/static/media/paper-plane.12fb831a59e7101858dbefb2a393179b.svg",
+    "static/media/ant-design_instagram-filled.svg": "/static/media/ant-design_instagram-filled.9affb5c72993e8647ea5.svg",
+    "static/media/akar-icons_youtube-fill.svg": "/static/media/akar-icons_youtube-fill.a9c76c853320f463eaa1.svg",
+    "static/media/iconoir_smartphone-device-blaxk.svg": "/static/media/iconoir_smartphone-device-blaxk.60ee9d131b77665ff956.svg",
+    "static/media/iconoir_smartphone-device.svg": "/static/media/iconoir_smartphone-device.9f05de0845b5310bcc12.svg",
+    "index.html": "/index.html",
+    "static/media/akar-icons_facebook-fill.svg": "/static/media/akar-icons_facebook-fill.8d132d8b2e89b78b64cc.svg",
+    "static/media/chevron_up.svg": "/static/media/chevron_up.c17744bba2b4607e9b35.svg",
+    "static/media/chevron_down.svg": "/static/media/chevron_down.9cff8a285e806f45d27a.svg",
+    "main.68833015.css.map": "/static/css/main.68833015.css.map",
+    "main.41152911.js.map": "/static/js/main.41152911.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68833015.css",
+    "static/js/main.41152911.js"
+  ]
+}
