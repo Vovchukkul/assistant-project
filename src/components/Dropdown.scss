@@ -1,0 +1,59 @@
+.dropdown-toggle {
+  height: 56px;
+  width: 241px;
+  background-color: rgba(255, 255, 255, 1);
+  border: none;
+  height: 40px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  padding-left: 16px;
+
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(28, 27, 31, 1);
+  font-family: 'Montserrat', sans-serif;
+}
+
+.dropdown-content {
+  position: relative;
+}
+
+.toogle_open {
+  background-image: url(../images/icons/chevron_down.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: block;
+  height: 24px;
+  width: 24px;
+}
+
+.toogle_close {
+  background-image: url(../images/icons/chevron_up.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: block;
+  height: 24px;
+  width: 24px;
+}
+
+.dropdown-menu {
+  position: absolute;
+  width: 200px;
+  border-radius: 4px;
+  border: none;
+  box-shadow: 0px 4px 16px 0px rgba(31, 59, 75, 0.15);
+  background-color: rgba(255, 255, 255, 1);
+  list-style: none;
+  margin-top: -3px;
+}
+
+.fieldset {
+  padding: 0;
+}
+
+.legend {
+  margin-left: 10px;
+}

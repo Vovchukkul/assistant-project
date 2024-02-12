@@ -1,0 +1,82 @@
+.footer-window {
+  background: rgba(244, 119, 13, 1);
+  box-shadow: 0px 4px 16px 0px rgba(17, 34, 17, 0.05);
+  border-radius: 20px;
+  padding-inline: 24px;
+  padding-top: 24px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 184px;
+  max-width: 1232px;
+
+  margin-top: -100px;
+  margin-bottom: 64px;
+}
+
+.window-title {
+  font-size: 44px;
+  font-weight: 700;
+  color: rgba(255, 255, 255, 1);
+  font-family: 'Unbounded', sans-serif;
+  max-width: 600px;
+  margin-bottom: 30px;
+}
+
+.window-subtitle {
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  font-weight: 700;
+  color: rgba(255, 255, 255, 1);
+  font-family: 'Unbounded', sans-serif;
+  max-width: 600px;
+  margin-bottom: 16px;
+}
+
+.window-buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 30px;
+}
+
+.number-button {
+  border-radius: 4px;
+  background: rgba(255, 255, 255, 1);
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 16px;
+  padding-right: 24px;
+
+  font-size: 14px;
+  font-weight: 600;
+  color: rgba(0, 0, 0, 1);
+  font-family: 'Montserrat', sans-serif;
+}
+
+.number__tel-icon {
+  background-image: url(../images/icons/iconoir_smartphone-device-blaxk.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: block;
+  height: 24px;
+  width: 24px;
+}
+
+.comment-button {
+  border-radius: 4px;
+  background-color: rgba(255, 255, 255, 1);
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+  font-weight: 600;
+  color: rgba(0, 0, 0, 1);
+  font-family: 'Montserrat', sans-serif;
+  padding-inline: 20px;
+}
